@@ -1,0 +1,2 @@
+from core.FASTQQualityEncodingFormatDetector import FASTQQualityEncodingFormatDetector
+from core.CGDistributionCalculator import CGDistributionCalculator
